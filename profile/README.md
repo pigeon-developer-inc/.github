@@ -1,6 +1,6 @@
 # Hello, I'm Pigeon Developer.
 
-I'm a multi-disciplinary software engineer. I build distributed systems, data pipelines and APIs available for short-term or long-term hire. Please reach out on [LinkedIn](https://www.linkedin.com/in/kara-pigeon/) or via [kara.graysen@gmail.com](mailto:kara.graysen@gmail.com).
+I'm a multi-disciplinary software engineer. I build distributed systems, data pipelines and APIs. I'm currently available for short-term and/or long-term engagements. If you would like to talk more, please reach out on [LinkedIn](https://www.linkedin.com/in/kara-pigeon/) or via [kara.graysen@gmail.com](mailto:kara.graysen@gmail.com). You can also [schedule time on my calendar](https://calendly.com/pigeon-developer/30min).
 
 ## Commitment Types
 
